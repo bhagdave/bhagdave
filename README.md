@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhagdave (Dave Gill)
 - 👀 I’m interested in most things code related.
 - 🌱 I’m currently learning how to code using Rust.
-- 💞️ I’m looking to collaborate on something interesting
 
 
 <!---
